@@ -945,6 +945,7 @@ section {
 
 .portfolio-details .portfolio-details-slider img {
   width: 100%;
+  z-index: 2;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination {
